@@ -16,7 +16,7 @@ return [
         'table_prefix' => '',
         'connection' => [
             'default' => [
-                'host' => '127.0.0.1',
+                'host' => '52.172.252.4',
                 'dbname' => 'magentodocker',
                 'username' => 'magento',
                 'password' => '8bUl~M$q<1Y0{D+',
